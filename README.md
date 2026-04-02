@@ -1,2 +1,2 @@
 # steel-ham
-blast_repo
+Graphcs, flowcharting, big picture drafting
