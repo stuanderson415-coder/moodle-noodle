@@ -1,0 +1,25 @@
+
+
+    <!-- Start of 'Tip' Card Group - Two column text and hint layout -->
+    <div class="card-group">
+
+        <!-- Start of first card -->
+        <div class="card">
+            <div class="card-body">
+                <h4 class="text-success"><i class="fa fa-lightbulb-o"></i> Tip</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            </div>
+        </div>
+        <!-- End of first card -->
+
+        <!-- Start of second card -->
+        <div class="card bg-success text-white">
+            <div class="card-body lead text-white">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            </div>
+        </div>
+        <!-- End of second card -->
+
+    </div>
+    <!-- End of 'Tip' Card Group.-->
+
